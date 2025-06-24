@@ -56,7 +56,7 @@ Exemplo de Caso Real
 ✅ Solução recomendada: Configurar o Azure Bastion.
 
 Próxima etapa
-➡️ Continue para: [Alta Disponibilidade e Conjuntos](4-docs/4-disponibilidade.md)
+➡️ Continue para: [Alta Disponibilidade e Conjuntos](4-disponibilidade.md)
 
 
 
