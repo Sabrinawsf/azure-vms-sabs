@@ -38,6 +38,9 @@ feito por mim e resumos realizados na plataforma NOTION no decorrer das aulas.
 - Microsoft Learn – Gerenciar Máquinas Virtuais no Azure:  
   https://learn.microsoft.com/pt-br/training/modules/manage-azure-virtual-machines/
 
+- DIO - Gerenciando Máquinas Virtuais no Azure:
+  https://web.dio.me/play/
+
 ---
 
 ## 🛠️ Ferramentas Úteis
