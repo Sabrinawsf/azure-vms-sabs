@@ -54,7 +54,7 @@ feito por mim e resumos realizados na plataforma NOTION no decorrer das aulas.
 ## 📖 Artigos e Blogs
 
 - Azure Blog Oficial: https://azure.microsoft.com/pt-br/blog/  
-- Tutoriais no Medium e Dev.to com busca por "Azure VMs"
+- Tutoriais e aulas práticas da DIO
 
 ---
 
@@ -71,4 +71,3 @@ feito por mim e resumos realizados na plataforma NOTION no decorrer das aulas.
 
 Este material serve como base para estudos e consultas rápidas. Utilize-o para planejar, implementar e gerenciar VMs com segurança e eficiência.
 
-Boa jornada no Azure! ☁️🚀
